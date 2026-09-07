@@ -16,13 +16,13 @@
 
   <p>
     <a href="https://siliconfps.github.io/"><img src="https://img.shields.io/badge/PORTAL-siliconfps.github.io-00ff88?style=for-the-badge&logo=googlechrome&logoColor=07110d&labelColor=0d1117" alt="Portal oficial" /></a>
-    <a href="https://github.com/siliconfps?tab=repositories"><img src="https://img.shields.io/badge/REPOSITÓRIOS-20_Projetos-161b22?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Repositórios" /></a>
+    <a href="https://github.com/siliconfps?tab=repositories"><img src="https://img.shields.io/badge/REPOSITÓRIOS-Projetos_Ativos-161b22?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Repositórios" /></a>
     <a href="https://youtube.com/@siliconfps"><img src="https://img.shields.io/badge/YOUTUBE-@siliconfps-ff0033?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d1117" alt="YouTube" /></a>
     <img src="https://img.shields.io/badge/LOCALIZAÇÃO-Brasil_🇧🇷-00e5ff?style=for-the-badge&labelColor=0d1117" alt="Brasil" />
   </p>
 
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=720&lines=Agentes+Aut%C3%B4nomos+de+IA+%26+Protocolo+MCP;Ferramentas+Standalone+e+TUI+para+Terminal;Otimiza%C3%A7%C3%B5es+de+Baixa+Lat%C3%AAncia+%26+Kernel;Telemetria+de+Hardware+em+Tempo+Real" alt="Áreas de foco" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=720&lines=Agentes+Aut%C3%B4nomos+de+IA+%26+Protocolo+MCP;Ferramentas+Standalone+e+TUI+para+Terminal;Otimiza%C3%A7%C3%B5es+de+Baixa+Lat%C3%AAncia+%26+Kernel;Temas+e+Customiza%C3%A7%C3%A3o+Desktop+Linux" alt="Áreas de foco" />
   </p>
 
   <sub>
@@ -43,7 +43,7 @@ Desenvolvo ferramentas focadas na interseção entre **Inteligência Artificial 
 - 🤖 **IA & Protocolo MCP:** Harnesses CLI/TUI autônomos, subagentes concorrentes, worktrees e ferramentas nativas via Model Context Protocol.
 - ⚡ **Performance & Kernel:** Scripts de pós-instalação, mitigação cirúrgica de CPU, tuning de latência e otimização de kernel (Linux/Windows).
 - 🖥️ **Terminal & Standalone:** Utilitários 100% offline, executáveis portáteis compilados e integração nativa ao sistema.
-- 📊 **Telemetria de Hardware:** Monitoramento em tempo real de sensores de CPU/GPU (MSR, clocks, temperaturas, uso) para Windows e Linux.
+- 🎨 **Desktop Linux & Temas:** Customizações visuais completas, temas GTK e pacotes PKGBUILD otimizados.
 
 ---
 
@@ -129,20 +129,15 @@ Desenvolvo ferramentas focadas na interseção entre **Inteligência Artificial 
 | :--- | :--- | :--- | :--- |
 | 🤖 **IA & Agentes** | [SiliconFlower](https://github.com/siliconfps/siliconflower) | Harness CLI/TUI para agentes autônomos com 34 ferramentas e MCP | TypeScript · Bun |
 | 📑 **Terminal / TUI** | [MarkiiDown](https://github.com/siliconfps/markiidown) | Pager e leitor de Markdown 100% offline com TUI interativa | TypeScript · Bun |
-| 🦀 **Terminal / CLI** | [Editor Seco-Seco](https://github.com/siliconfps/editor-seco-seco) | Editor de texto CLI ultraleve com realce de sintaxe em 14 linguagens | Rust |
 | 🐧 **Linux Tuning** | [Arch Linux Optimizations](https://github.com/siliconfps/arch-linux-optimizations) | Guia de tuning de kernel CachyOS, customização e baixa latência | Shell · Linux |
 | ⚡ **Windows Tuning** | [Otimizador Windows](https://github.com/siliconfps/otimizador-windows) | Automação pós-instalação com 19 ajustes de desempenho e privacidade | PowerShell |
-| 📊 **Telemetria** | [GPU/CPU Monitor Windows](https://github.com/siliconfps/gpu-cpu-monitor-windows) | Monitor na bandeja com sensores MSR, clocks e VRAM (.NET 9 single-file) | C# · .NET 9 |
-| 🧹 **Manutenção** | [Little Registry Cleaner](https://github.com/siliconfps/LittleRegistryCleaner) | Limpador de Registro 64-bit, backups XML e desinstalador de sobras | C# · .NET |
-| 🛡️ **Diagnóstico** | [Check CPU Mitigations](https://github.com/siliconfps/check-cpu-mitigations) | Auditoria de mitigações de CPU (Spectre, Meltdown, MDS) | PowerShell |
-| 📀 **Linux Utils** | [WoeUSB Remastered](https://github.com/siliconfps/WoeUSB-remast) | Manutenção de criador de mídia inicializável Windows no Linux | Python · Shell |
-| 🐧 **Linux Hardware** | [Hardview](https://github.com/siliconfps/hardview) · [cpufreq-perf](https://github.com/siliconfps/ubuntu-cpufreq-perf) · [AMD Overclock](https://github.com/siliconfps/overclock-amd) | Auditoria de hardware, frequências cpufreq e controle de powercap | Shell |
-| 🖥️ **Desktop Plugins** | [GNOME](https://github.com/siliconfps/gnome-cpu-monitor) · [XFCE4](https://github.com/siliconfps/xfce4-cpu-plugin) · [LXPanel](https://github.com/siliconfps/lxpanel-cpu-gpu-monitor) | Extensões e plugins leves para monitoramento de CPU/GPU em painéis | C · JS · Shell |
+| 🎨 **Desktop Linux** | [Windows-7 Aero Theme](https://github.com/siliconfps/Windows-7) | Tema de ícones Aero pixel-perfect modernizado para Linux (GTK3/4, XFCE, GNOME) | Shell · PKGBUILD |
+| 🌐 **Portal & Docs** | [siliconfps.github.io](https://github.com/siliconfps/siliconfps.github.io) | Portal web oficial e documentação técnica da SILICONFPS | HTML · CSS · JS |
 
 <div align="center">
   <br/>
   <a href="https://github.com/siliconfps?tab=repositories">
-    <img src="https://img.shields.io/badge/Explorar_todos_os_20_reposit%C3%B3rios-161b22?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Explorar todos os repositórios" />
+    <img src="https://img.shields.io/badge/Explorar_todos_os_reposit%C3%B3rios-161b22?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Explorar todos os repositórios" />
   </a>
 </div>
 
