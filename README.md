@@ -91,17 +91,17 @@ Desenvolvo ferramentas focadas na interseção entre **Inteligência Artificial 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🐧 Arch Linux Optimizations</h3>
+      <h3 align="center">🎨 Windows 7 Aero Theme</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white" alt="Arch Linux" />
-        <img src="https://img.shields.io/badge/Kernel-CachyOS-00ff88?style=flat-square&labelColor=161b22" alt="CachyOS" />
-        <img src="https://img.shields.io/badge/Desktop-XFCE_4.20-2284F2?style=flat-square&logo=xfce&logoColor=white" alt="XFCE" />
+        <a href="https://github.com/siliconfps/Windows-7"><img src="https://img.shields.io/badge/Aero-Modernized-00ff88?style=flat-square&labelColor=161b22" alt="Windows 7 Aero Theme" /></a>
+        <img src="https://img.shields.io/badge/Linux-GTK3_%2F_GTK4-1793D1?style=flat-square&logo=linux&logoColor=white" alt="Linux" />
+        <img src="https://img.shields.io/badge/Arch_Linux-PKGBUILD-1793D1?style=flat-square&logo=archlinux&logoColor=white" alt="PKGBUILD" />
       </p>
       <p>
-        Guia abrangente e scripts de configuração, otimizações de kernel de baixa latência (CachyOS), tuning de áudio/hardware, customização estética dark Libadwaita e automações de desempenho no Arch Linux.
+        Tema de ícones Windows 7 Aero pixel-perfect modernizado para Linux (GTK3/GTK4, XFCE, Cinnamon, MATE, GNOME). Clean FreeDesktop specs, zero-error GTK cache e Arch PKGBUILD.
       </p>
       <p align="center">
-        <strong><a href="https://github.com/siliconfps/arch-linux-optimizations">Ver Guia e Configurações</a></strong>
+        <strong><a href="https://github.com/siliconfps/Windows-7">Código e Instalação</a></strong>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -129,7 +129,6 @@ Desenvolvo ferramentas focadas na interseção entre **Inteligência Artificial 
 | :--- | :--- | :--- | :--- |
 | 🤖 **IA & Agentes** | [SiliconFlower](https://github.com/siliconfps/siliconflower) | Harness CLI/TUI para agentes autônomos com 34 ferramentas e MCP | TypeScript · Bun |
 | 📑 **Terminal / TUI** | [MarkiiDown](https://github.com/siliconfps/markiidown) | Pager e leitor de Markdown 100% offline com TUI interativa | TypeScript · Bun |
-| 🐧 **Linux Tuning** | [Arch Linux Optimizations](https://github.com/siliconfps/arch-linux-optimizations) | Guia de tuning de kernel CachyOS, customização e baixa latência | Shell · Linux |
 | ⚡ **Windows Tuning** | [Otimizador Windows](https://github.com/siliconfps/otimizador-windows) | Automação pós-instalação com 19 ajustes de desempenho e privacidade | PowerShell |
 | 🎨 **Desktop Linux** | [Windows-7 Aero Theme](https://github.com/siliconfps/Windows-7) | Tema de ícones Aero pixel-perfect modernizado para Linux (GTK3/4, XFCE, GNOME) | Shell · PKGBUILD |
 | 🌐 **Portal & Docs** | [siliconfps.github.io](https://github.com/siliconfps/siliconfps.github.io) | Portal web oficial e documentação técnica da SILICONFPS | HTML · CSS · JS |
