@@ -204,12 +204,12 @@ Set-ExecutionPolicy Unrestricted -Scope Process -Force
 ### 📊 Metricas & Atividade
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=siliconfps&show_icons=true&theme=tokyonight&title_color=00ff88&icon_color=00ff88&bg_color=0d1117&border_color=161b22" alt="Estatísticas do GitHub" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=siliconfps&show_icons=true&theme=tokyonight&title_color=00ff88&icon_color=00ff88&bg_color=0d1117&border_color=161b22&hide_border=true" alt="Estatísticas do GitHub" />
   <img height="180" src="https://streak-stats.demolab.com?user=siliconfps&theme=tokyonight&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&border=161b22" alt="Sequência de contribuições" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siliconfps&layout=compact&theme=tokyonight&title_color=00ff88&bg_color=0d1117&border_color=161b22&langs_count=8" alt="Linguagens mais usadas" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=siliconfps&layout=compact&theme=tokyonight&title_color=00ff88&bg_color=0d1117&border_color=161b22&langs_count=8&hide_border=true" alt="Linguagens mais usadas" />
   <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siliconfps&theme=github-compact&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&hide_border=true" alt="Gráfico de atividade" />
+  <img src="https://ghchart.rshah.org/00ff88/siliconfps" alt="Gráfico de contribuições" />
 </div>
 
 ---
