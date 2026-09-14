@@ -167,8 +167,17 @@ bun run start
 
 ```powershell
 # 📑 MarkiiDown — leitor/editor 100% offline (sem admin)
+# 1. Baixe o markiidown.exe em Releases ou compile do fonte:
+git clone https://github.com/siliconfps/markiidown.git
+cd markiidown
+bun run build:exe
+
+# 2. Instale (copia para %LOCALAPPDATA%\MarkiiDown + PATH + menu de contexto)
 .\dist\markiidown.exe --install
-markiidown documento.md
+# Reabra o terminal e use:
+markiidown documento.md                      # leitor TUI (/ busca, t sumario, e edita, q sai)
+markiidown codigo.ts --edit                  # abre direto no editor (Ctrl+S salva)
+markiidown guia.md --export manual.html      # exporta HTML estatico autocontido
 ```
 
 ```powershell
