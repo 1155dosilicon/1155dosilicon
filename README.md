@@ -155,38 +155,71 @@ Desenvolvo ferramentas focadas na interseção entre **Inteligência Artificial 
 <a id="quickstart"></a>
 ### 🚀 Quickstart
 
-Teste em menos de 1 minuto:
+Pré-requisitos: [Bun 1.3+](https://bun.sh) para rodar do fonte ou compilar · os `.exe` já compilados não precisam de nada instalado · Otimizador exige PowerShell como **Administrador**.
+
+#### 🌸 SiliconFlower — agente IA no terminal (Windows)
 
 ```powershell
-# 🌸 SiliconFlower — agente IA no terminal
 git clone https://github.com/siliconfps/siliconflower.git
 cd siliconflower
 bun install
-bun run start
+bun run start   # na 1ª execução o wizard pede a API key (SiliconFlow, OpenRouter ou OpenAI)
 ```
 
+Para usar de qualquer pasta: `bun run build` (gera `dist/siliconflower.exe`) → `npm run install:bin` (adiciona ao PATH) → `siliconflower`. Alternativa sem wizard: defina `SILICONFLOWER_API_KEY`, `SILICONFLOWER_BASE_URL` e `SILICONFLOWER_MODEL`.
+
+📖 Documentação completa: [siliconfps/siliconflower](https://github.com/siliconfps/siliconflower)
+
+#### 📑 MarkiiDown — leitor/editor 100% offline (sem admin)
+
+Opção 1 — baixe o `markiidown.exe` pronto em [Releases](https://github.com/siliconfps/markiidown/releases). Opção 2 — compile do fonte:
+
 ```powershell
-# 📑 MarkiiDown — leitor/editor 100% offline (sem admin)
-# 1. Baixe o markiidown.exe em Releases ou compile do fonte:
 git clone https://github.com/siliconfps/markiidown.git
 cd markiidown
-bun run build:exe
-
-# 2. Instale (copia para %LOCALAPPDATA%\MarkiiDown + PATH + menu de contexto)
-.\dist\markiidown.exe --install
-# Reabra o terminal e use:
-markiidown documento.md                      # leitor TUI (/ busca, t sumario, e edita, q sai)
-markiidown codigo.ts --edit                  # abre direto no editor (Ctrl+S salva)
-markiidown guia.md --export manual.html      # exporta HTML estatico autocontido
+bun run build:exe   # gera dist\markiidown.exe (também vale: bun run src/index.ts --install)
+.\dist\markiidown.exe --install   # instala em %LOCALAPPDATA%\MarkiiDown + PATH + menu de contexto
 ```
+
+Reabra o terminal e use:
 
 ```powershell
-# ⚡ Otimizador Windows — execute como Administrador
-# Opcao 1 (facil): baixe otimizador.exe e execute como admin
-# Opcao 2 (PowerShell como admin):
-Set-ExecutionPolicy Unrestricted -Scope Process -Force
-.\otimizador.ps1
+markiidown documento.md                  # leitor TUI: / busca, t sumário, e edita, q sai
+markiidown codigo.ts --edit              # abre direto no editor (Ctrl+S salva, Ctrl+Z desfaz)
+markiidown guia.md --export manual.html  # exporta HTML estático autocontido
+markiidown notas.md --watch              # monitora alterações em tempo real
+markiidown --uninstall                   # remove PATH e entradas do sistema
 ```
+
+📖 Documentação completa (PT/EN/ES): [siliconfps/markiidown](https://github.com/siliconfps/markiidown)
+
+#### ⚡ Otimizador Windows 10/11 — execute como Administrador
+
+Opção 1 (fácil) — baixe o `otimizador.exe` em [Releases](https://github.com/siliconfps/otimizador-windows/releases), clique com o botão direito → **Executar como administrador**, confirme o UAC e pronto.
+
+Opção 2 — via PowerShell (como admin):
+
+```powershell
+Set-ExecutionPolicy Unrestricted -Scope Process -Force
+.\otimizador.ps1   # ao final, responda S para reiniciar ou N para depois
+```
+
+Para gerar o `.exe` você mesmo: `.\build-exe.ps1`. Aplica 19 ajustes (telemetria, bloatware, latência, plano de alto desempenho) — algumas mudanças exigem reinicialização.
+
+📖 Lista dos 19 ajustes e avisos: [siliconfps/otimizador-windows](https://github.com/siliconfps/otimizador-windows)
+
+#### 🎨 Windows 7 Aero Theme — Linux (GTK3/GTK4)
+
+```bash
+git clone https://github.com/siliconfps/Windows-7.git
+cd Windows-7
+./install.sh --user    # só usuário atual (recomendado, sem root)
+./install.sh --system  # todos os usuários (pede autenticação via pkexec)
+```
+
+No Arch/CachyOS/Manjaro há `PKGBUILD` incluso. Desinstalar: `./install.sh --user --uninstall`.
+
+📖 Guia de instalação: [siliconfps/Windows-7](https://github.com/siliconfps/Windows-7)
 
 ---
 
