@@ -1,7 +1,7 @@
 <div align="center">
 
-  <a href="https://1155dosilicon.github.io/" title="Portal Oficial SILICONFPS">
-    <img src="https://1155dosilicon.github.io/avatarupscaled-v2.png" alt="SILICONFPS Avatar" width="150" />
+  <a href="https://1155dosilicon.github.io/" title="Portal Oficial 1155DOSILICON">
+    <img src="https://1155dosilicon.github.io/avatarupscaled-v2.png" alt="1155DOSILICON Avatar" width="150" />
   </a>
 
   <h1>⚡1155DOSILICON</h1>
@@ -61,8 +61,8 @@ Desenvolvo ferramentas focadas na interseção entre **Inteligência Artificial 
     <td width="50%" valign="top">
       <h3 align="center">🌸 SiliconFlower</h3>
       <p align="center">
-        <a href="https://github.com/siliconfps/siliconflower/releases"><img src="https://img.shields.io/github/v/release/siliconfps/siliconflower?label=release&color=00ff88&labelColor=161b22&style=flat-square" alt="Última release SiliconFlower" /></a>
-        <a href="https://github.com/siliconfps/siliconflower/stargazers"><img src="https://img.shields.io/github/stars/siliconfps/siliconflower?style=flat-square&labelColor=161b22" alt="Stars SiliconFlower" /></a>
+        <a href="https://github.com/1155dosilicon/siliconflower/releases"><img src="https://img.shields.io/github/v/release/1155dosilicon/siliconflower?label=release&color=00ff88&labelColor=161b22&style=flat-square" alt="Última release SiliconFlower" /></a>
+        <a href="https://github.com/1155dosilicon/siliconflower/stargazers"><img src="https://img.shields.io/github/stars/1155dosilicon/siliconflower?style=flat-square&labelColor=161b22" alt="Stars SiliconFlower" /></a>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
         <img src="https://img.shields.io/badge/MCP-8A2BE2?style=flat-square" alt="MCP" />
       </p>
@@ -73,15 +73,15 @@ Desenvolvo ferramentas focadas na interseção entre **Inteligência Artificial 
         Suporta OpenAI, Anthropic, OpenRouter, SiliconFlow e modelos locais. Compilável como executável portátil standalone via Bun.
       </p>
       <p align="center">
-        <strong><a href="https://github.com/siliconfps/siliconflower">Código e Documentação</a></strong> ·
-        <strong><a href="https://siliconfps.github.io/siliconflower.html">Apresentação Web</a></strong>
+        <strong><a href="https://github.com/1155dosilicon/siliconflower">Código e Documentação</a></strong> ·
+        <strong><a href="https://1155dosilicon.github.io/siliconflower.html">Apresentação Web</a></strong>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">📑 MarkiiDown</h3>
       <p align="center">
-        <a href="https://github.com/siliconfps/markiidown/releases"><img src="https://img.shields.io/github/v/release/siliconfps/markiidown?label=release&color=00ff88&labelColor=161b22&style=flat-square" alt="Última release MarkiiDown" /></a>
-        <a href="https://github.com/siliconfps/markiidown/stargazers"><img src="https://img.shields.io/github/stars/siliconfps/markiidown?style=flat-square&labelColor=161b22" alt="Stars MarkiiDown" /></a>
+        <a href="https://github.com/1155dosilicon/markiidown/releases"><img src="https://img.shields.io/github/v/release/1155dosilicon/markiidown?label=release&color=00ff88&labelColor=161b22&style=flat-square" alt="Última release MarkiiDown" /></a>
+        <a href="https://github.com/1155dosilicon/markiidown/stargazers"><img src="https://img.shields.io/github/stars/1155dosilicon/markiidown?style=flat-square&labelColor=161b22" alt="Stars MarkiiDown" /></a>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
         <img src="https://img.shields.io/badge/Offline-100%25-00ff88?style=flat-square&labelColor=161b22" alt="Offline" />
       </p>
@@ -92,7 +92,7 @@ Desenvolvo ferramentas focadas na interseção entre **Inteligência Artificial 
         Instalação no espaço do usuário sem necessidade de privilégios de administrador e suporte a executável portátil independente.
       </p>
       <p align="center">
-        <strong><a href="https://github.com/siliconfps/markiidown">Código e Documentação</a></strong>
+        <strong><a href="https://github.com/1155dosilicon/markiidown">Código e Documentação</a></strong>
       </p>
     </td>
   </tr>
@@ -100,8 +100,8 @@ Desenvolvo ferramentas focadas na interseção entre **Inteligência Artificial 
     <td width="50%" valign="top">
       <h3 align="center">🎨 Windows 7 Aero Theme</h3>
       <p align="center">
-        <a href="https://github.com/siliconfps/Windows-7/stargazers"><img src="https://img.shields.io/github/stars/siliconfps/Windows-7?style=flat-square&labelColor=161b22" alt="Stars Windows 7 Theme" /></a>
-        <a href="https://github.com/siliconfps/Windows-7/commits"><img src="https://img.shields.io/github/last-commit/siliconfps/Windows-7?style=flat-square&labelColor=161b22&color=00ff88" alt="Último commit" /></a>
+        <a href="https://github.com/1155dosilicon/Windows-7/stargazers"><img src="https://img.shields.io/github/stars/1155dosilicon/Windows-7?style=flat-square&labelColor=161b22" alt="Stars Windows 7 Theme" /></a>
+        <a href="https://github.com/1155dosilicon/Windows-7/commits"><img src="https://img.shields.io/github/last-commit/1155dosilicon/Windows-7?style=flat-square&labelColor=161b22&color=00ff88" alt="Último commit" /></a>
         <img src="https://img.shields.io/badge/Linux-GTK3_%2F_GTK4-1793D1?style=flat-square&logo=linux&logoColor=white" alt="Linux" />
         <img src="https://img.shields.io/badge/Arch_Linux-PKGBUILD-1793D1?style=flat-square&logo=archlinux&logoColor=white" alt="PKGBUILD" />
       </p>
@@ -109,14 +109,14 @@ Desenvolvo ferramentas focadas na interseção entre **Inteligência Artificial 
         Tema de ícones Windows 7 Aero pixel-perfect modernizado para Linux (GTK3/GTK4, XFCE, Cinnamon, MATE, GNOME). Clean FreeDesktop specs, zero-error GTK cache e Arch PKGBUILD.
       </p>
       <p align="center">
-        <strong><a href="https://github.com/siliconfps/Windows-7">Código e Instalação</a></strong>
+        <strong><a href="https://github.com/1155dosilicon/Windows-7">Código e Instalação</a></strong>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">⚡ Otimizador Windows</h3>
       <p align="center">
-        <a href="https://github.com/siliconfps/otimizador-windows/releases"><img src="https://img.shields.io/github/v/release/siliconfps/otimizador-windows?label=release&color=00ff88&labelColor=161b22&style=flat-square" alt="Última release Otimizador" /></a>
-        <a href="https://github.com/siliconfps/otimizador-windows/stargazers"><img src="https://img.shields.io/github/stars/siliconfps/otimizador-windows?style=flat-square&labelColor=161b22" alt="Stars Otimizador" /></a>
+        <a href="https://github.com/1155dosilicon/otimizador-windows/releases"><img src="https://img.shields.io/github/v/release/1155dosilicon/otimizador-windows?label=release&color=00ff88&labelColor=161b22&style=flat-square" alt="Última release Otimizador" /></a>
+        <a href="https://github.com/1155dosilicon/otimizador-windows/stargazers"><img src="https://img.shields.io/github/stars/1155dosilicon/otimizador-windows?style=flat-square&labelColor=161b22" alt="Stars Otimizador" /></a>
         <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
         <img src="https://img.shields.io/badge/Windows-10_%2F_11-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
       </p>
@@ -124,7 +124,7 @@ Desenvolvo ferramentas focadas na interseção entre **Inteligência Artificial 
         Automação de pós-instalação para Windows 10 e 11 com 19 ajustes de desempenho, remoção de telemetria/bloatware e mitigação de latência, acompanhados de documentação clara e mecanismos de reversão.
       </p>
       <p align="center">
-        <strong><a href="https://github.com/siliconfps/otimizador-windows">Código e Scripts</a></strong>
+        <strong><a href="https://github.com/1155dosilicon/otimizador-windows">Código e Scripts</a></strong>
       </p>
     </td>
   </tr>
@@ -137,15 +137,15 @@ Desenvolvo ferramentas focadas na interseção entre **Inteligência Artificial 
 
 | Categoria | Repositório | Descrição | Stack |
 | :--- | :--- | :--- | :--- |
-| 🤖 **IA & Agentes** | [SiliconFlower](https://github.com/siliconfps/siliconflower) | Harness CLI/TUI para agentes autônomos com 34 ferramentas e MCP | TypeScript · Bun |
-| 📑 **Terminal / TUI** | [MarkiiDown](https://github.com/siliconfps/markiidown) | Leitor e editor universal 100% offline com TUI interativa | TypeScript · Bun |
-| ⚡ **Windows Tuning** | [Otimizador Windows](https://github.com/siliconfps/otimizador-windows) | Automação pós-instalação com 19 ajustes de desempenho e privacidade | PowerShell |
-| 🎨 **Desktop Linux** | [Windows-7 Aero Theme](https://github.com/siliconfps/Windows-7) | Tema de ícones Aero pixel-perfect modernizado para Linux (GTK3/4, XFCE, GNOME) | Shell · PKGBUILD |
-| 🌐 **Portal & Docs** | [siliconfps.github.io](https://github.com/siliconfps/siliconfps.github.io) | Portal web oficial e documentação técnica da SILICONFPS | HTML · CSS · JS |
+| 🤖 **IA & Agentes** | [SiliconFlower](https://github.com/1155dosilicon/siliconflower) | Harness CLI/TUI para agentes autônomos com 34 ferramentas e MCP | TypeScript · Bun |
+| 📑 **Terminal / TUI** | [MarkiiDown](https://github.com/1155dosilicon/markiidown) | Leitor e editor universal 100% offline com TUI interativa | TypeScript · Bun |
+| ⚡ **Windows Tuning** | [Otimizador Windows](https://github.com/1155dosilicon/otimizador-windows) | Automação pós-instalação com 19 ajustes de desempenho e privacidade | PowerShell |
+| 🎨 **Desktop Linux** | [Windows-7 Aero Theme](https://github.com/1155dosilicon/Windows-7) | Tema de ícones Aero pixel-perfect modernizado para Linux (GTK3/4, XFCE, GNOME) | Shell · PKGBUILD |
+| 🌐 **Portal & Docs** | [1155dosilicon.github.io](https://github.com/1155dosilicon/1155dosilicon.github.io) | Portal web oficial e documentação técnica da 1155DOSILICON | HTML · CSS · JS |
 
 <div align="center">
   <br/>
-  <a href="https://github.com/siliconfps?tab=repositories">
+  <a href="https://github.com/1155dosilicon?tab=repositories">
     <img src="https://img.shields.io/badge/Explorar_todos_os_repositorios-161b22?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Explorar todos os repositórios" />
   </a>
 </div>
@@ -160,7 +160,7 @@ Pré-requisitos: [Bun 1.3+](https://bun.sh) para rodar do fonte ou compilar · o
 #### 🌸 SiliconFlower — agente IA no terminal (Windows)
 
 ```powershell
-git clone https://github.com/siliconfps/siliconflower.git
+git clone https://github.com/1155dosilicon/siliconflower.git
 cd siliconflower
 bun install
 bun run start   # na 1ª execução o wizard pede a API key (SiliconFlow, OpenRouter ou OpenAI)
@@ -168,14 +168,14 @@ bun run start   # na 1ª execução o wizard pede a API key (SiliconFlow, OpenRo
 
 Para usar de qualquer pasta: `bun run build` (gera `dist/siliconflower.exe`) → `npm run install:bin` (adiciona ao PATH) → `siliconflower`. Alternativa sem wizard: defina `SILICONFLOWER_API_KEY`, `SILICONFLOWER_BASE_URL` e `SILICONFLOWER_MODEL`.
 
-📖 Documentação completa: [siliconfps/siliconflower](https://github.com/siliconfps/siliconflower)
+📖 Documentação completa: [1155dosilicon/siliconflower](https://github.com/1155dosilicon/siliconflower)
 
 #### 📑 MarkiiDown — leitor/editor 100% offline (sem admin)
 
-Opção 1 — baixe o `markiidown.exe` pronto em [Releases](https://github.com/siliconfps/markiidown/releases). Opção 2 — compile do fonte:
+Opção 1 — baixe o `markiidown.exe` pronto em [Releases](https://github.com/1155dosilicon/markiidown/releases). Opção 2 — compile do fonte:
 
 ```powershell
-git clone https://github.com/siliconfps/markiidown.git
+git clone https://github.com/1155dosilicon/markiidown.git
 cd markiidown
 bun run build:exe   # gera dist\markiidown.exe (também vale: bun run src/index.ts --install)
 .\dist\markiidown.exe --install   # instala em %LOCALAPPDATA%\MarkiiDown + PATH + menu de contexto
@@ -191,11 +191,11 @@ markiidown notas.md --watch              # monitora alterações em tempo real
 markiidown --uninstall                   # remove PATH e entradas do sistema
 ```
 
-📖 Documentação completa (PT/EN/ES): [siliconfps/markiidown](https://github.com/siliconfps/markiidown)
+📖 Documentação completa (PT/EN/ES): [1155dosilicon/markiidown](https://github.com/1155dosilicon/markiidown)
 
 #### ⚡ Otimizador Windows 10/11 — execute como Administrador
 
-Opção 1 (fácil) — baixe o `otimizador.exe` em [Releases](https://github.com/siliconfps/otimizador-windows/releases), clique com o botão direito → **Executar como administrador**, confirme o UAC e pronto.
+Opção 1 (fácil) — baixe o `otimizador.exe` em [Releases](https://github.com/1155dosilicon/otimizador-windows/releases), clique com o botão direito → **Executar como administrador**, confirme o UAC e pronto.
 
 Opção 2 — via PowerShell (como admin):
 
@@ -206,12 +206,12 @@ Set-ExecutionPolicy Unrestricted -Scope Process -Force
 
 Para gerar o `.exe` você mesmo: `.\build-exe.ps1`. Aplica 19 ajustes (telemetria, bloatware, latência, plano de alto desempenho) — algumas mudanças exigem reinicialização.
 
-📖 Lista dos 19 ajustes e avisos: [siliconfps/otimizador-windows](https://github.com/siliconfps/otimizador-windows)
+📖 Lista dos 19 ajustes e avisos: [1155dosilicon/otimizador-windows](https://github.com/1155dosilicon/otimizador-windows)
 
 #### 🎨 Windows 7 Aero Theme — Linux (GTK3/GTK4)
 
 ```bash
-git clone https://github.com/siliconfps/Windows-7.git
+git clone https://github.com/1155dosilicon/Windows-7.git
 cd Windows-7
 ./install.sh --user    # só usuário atual (recomendado, sem root)
 ./install.sh --system  # todos os usuários (pede autenticação via pkexec)
@@ -219,7 +219,7 @@ cd Windows-7
 
 No Arch/CachyOS/Manjaro há `PKGBUILD` incluso. Desinstalar: `./install.sh --user --uninstall`.
 
-📖 Guia de instalação: [siliconfps/Windows-7](https://github.com/siliconfps/Windows-7)
+📖 Guia de instalação: [1155dosilicon/Windows-7](https://github.com/1155dosilicon/Windows-7)
 
 ---
 
@@ -246,12 +246,12 @@ No Arch/CachyOS/Manjaro há `PKGBUILD` incluso. Desinstalar: `./install.sh --use
 ### 📊 Metricas & Atividade
 
 <div align="center">
-  <img height="180" src="https://github-stats-extended.vercel.app/api?username=siliconfps&show_icons=true&theme=tokyonight&title_color=00ff88&icon_color=00ff88&bg_color=0d1117&border_color=161b22&hide_border=true" alt="Estatísticas do GitHub" />
-  <img height="180" src="https://streak-stats.demolab.com?user=siliconfps&theme=tokyonight&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&border=161b22" alt="Sequência de contribuições" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=1155dosilicon&show_icons=true&theme=tokyonight&title_color=00ff88&icon_color=00ff88&bg_color=0d1117&border_color=161b22&hide_border=true" alt="Estatísticas do GitHub" />
+  <img height="180" src="https://streak-stats.demolab.com?user=1155dosilicon&theme=tokyonight&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&border=161b22" alt="Sequência de contribuições" />
   <br/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=siliconfps&layout=compact&theme=tokyonight&title_color=00ff88&bg_color=0d1117&border_color=161b22&langs_count=8&hide_border=true" alt="Linguagens mais usadas" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=1155dosilicon&layout=compact&theme=tokyonight&title_color=00ff88&bg_color=0d1117&border_color=161b22&langs_count=8&hide_border=true" alt="Linguagens mais usadas" />
   <br/><br/>
-  <img src="https://ghchart.rshah.org/00ff88/siliconfps" alt="Gráfico de contribuições" />
+  <img src="https://ghchart.rshah.org/00ff88/1155dosilicon" alt="Gráfico de contribuições" />
 </div>
 
 ---
@@ -259,9 +259,9 @@ No Arch/CachyOS/Manjaro há `PKGBUILD` incluso. Desinstalar: `./install.sh --use
 <div align="center">
 
   <p>
-    <a href="https://siliconfps.github.io/">Portal</a> ·
-    <a href="https://github.com/siliconfps?tab=repositories">Projetos</a> ·
-    <a href="https://youtube.com/@siliconfps">YouTube</a>
+    <a href="https://1155dosilicon.github.io/">Portal</a> ·
+    <a href="https://github.com/1155dosilicon?tab=repositories">Projetos</a> ·
+    <a href="https://youtube.com/@1155dosilicon">YouTube</a>
   </p>
 
   <sub>Projetado com foco em alta performance, autonomia e eficiência · Brasil 🇧🇷</sub>
