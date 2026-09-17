@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://1155dosilicon.github.io/" title="Portal Oficial SILICONFPS">
-    <img src="https://siliconfps.github.io/avatarupscaled-v2.png" alt="SILICONFPS Avatar" width="150" />
+    <img src="https://1155dosilicon.github.io/avatarupscaled-v2.png" alt="SILICONFPS Avatar" width="150" />
   </a>
 
   <h1>⚡ SILICONFPS</h1>
@@ -15,15 +15,15 @@
   </p>
 
   <p>
-    <a href="https://siliconfps.github.io/"><img src="https://img.shields.io/badge/PORTAL-siliconfps.github.io-00ff88?style=for-the-badge&logo=googlechrome&logoColor=07110d&labelColor=0d1117" alt="Portal oficial" /></a>
-    <a href="https://github.com/siliconfps?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIOS-Projetos_Ativos-161b22?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Repositórios" /></a>
-    <a href="https://youtube.com/@siliconfps"><img src="https://img.shields.io/badge/YOUTUBE-@siliconfps-ff0033?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d1117" alt="YouTube" /></a>
+    <a href="https://1155dosilicon.github.io/"><img src="https://img.shields.io/badge/PORTAL-1155dosilicon.github.io-00ff88?style=for-the-badge&logo=googlechrome&logoColor=07110d&labelColor=0d1117" alt="Portal oficial" /></a>
+    <a href="https://github.com/1155dosilicon?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIOS-Projetos_Ativos-161b22?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Repositórios" /></a>
+    <a href="https://youtube.com/@1155dosilicon"><img src="https://img.shields.io/badge/YOUTUBE-@1155dosilicon-ff0033?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d1117" alt="YouTube" /></a>
     <img src="https://img.shields.io/badge/LOCALIZACAO-Brasil-00e5ff?style=for-the-badge&labelColor=0d1117" alt="Brasil" />
   </p>
 
   <p>
-    <img src="https://img.shields.io/github/followers/siliconfps?style=flat-square&label=Seguidores&labelColor=0d1117&color=161b22" alt="Seguidores" />
-    <img src="https://komarev.com/ghpvc/?username=siliconfps&color=00ff88&style=flat-square&label=VISITAS" alt="Visitas ao perfil" />
+    <img src="https://img.shields.io/github/followers/1155dosilicon?style=flat-square&label=Seguidores&labelColor=0d1117&color=161b22" alt="Seguidores" />
+    <img src="https://komarev.com/ghpvc/?username=1155dosilicon&color=00ff88&style=flat-square&label=VISITAS" alt="Visitas ao perfil" />
   </p>
 
   <p>
