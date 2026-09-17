@@ -4,7 +4,7 @@
     <img src="https://1155dosilicon.github.io/avatarupscaled-v2.png" alt="SILICONFPS Avatar" width="150" />
   </a>
 
-  <h1>⚡ SILICONFPS</h1>
+  <h1>⚡1155DOSILICON</h1>
 
   <p>
     <strong>IA Agêntica · Engenharia de Sistemas · Ferramentas de Terminal · Baixa Latência</strong>
