@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://1155dosilicon.github.io/" title="Portal oficial 1155DOSILICON">
-    <img src="https://1155dosilicon.github.io/avatarupscaled-v2.png" alt="1155DOSILICON" width="130" />
+    <img src="https://1155dosilicon.github.io/avatarupscaled-v2.webp" alt="1155DOSILICON" width="130" />
   </a>
 
   <h1>⚡ 1155DOSILICON</h1>
