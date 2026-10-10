@@ -48,7 +48,6 @@ Desenvolvo ferramentas na interseção entre **IA agêntica** (harnesses CLI/TUI
 | 🌸 [SiliconFlower](https://github.com/1155dosilicon/siliconflower) | Harness CLI/TUI de agentes IA: 34 ferramentas nativas, subagentes, MCP, worktrees | TypeScript · Bun |
 | 📑 [MarkiiDown](https://github.com/1155dosilicon/markiidown) | Leitor/editor universal 100% offline para terminal, com TUI e export HTML | TypeScript · Bun |
 | ⚡ [Otimizador Windows](https://github.com/1155dosilicon/otimizador-windows) | Pós-instalação Win 10/11: 19 ajustes de desempenho e privacidade | PowerShell |
-| 🎨 [Windows-7 Aero](https://github.com/1155dosilicon/Windows-7) | Tema de ícones Aero para Linux (GTK3/4, XFCE, GNOME) + PKGBUILD | Shell · PKGBUILD |
 | 📰 [LLMs vs Imprensa](https://github.com/1155dosilicon/llm-imprensa-2026) | Estudo reprodutível de viés político: 7 LLMs, protocolo A/B/C/D | Pesquisa aberta |
 
 🌸 SiliconFlower tem [apresentação web](https://1155dosilicon.github.io/siliconflower.html) · 📰 o estudo tem [versão interativa](https://1155dosilicon.github.io/llm-imprensa.html) · 📦 [todos os repositórios](https://github.com/1155dosilicon?tab=repositories)
